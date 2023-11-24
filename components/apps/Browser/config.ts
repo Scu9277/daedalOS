@@ -10,12 +10,12 @@ export const bookmarks: Bookmark[] = [
   {
     icon: "/System/Icons/Favicons/google.webp",
     name: "Google",
-    url: "https://www.google.com/webhp?igu=1",
+    url: "https://www.youtube.com/",
   },
   {
     icon: "/System/Icons/Favicons/wikipedia.webp",
     name: "Wikipedia",
-    url: "https://www.wikipedia.org/",
+    url: "https://bk.aile.eu.org/",
   },
   {
     icon: "/System/Icons/Favicons/archive.webp",
@@ -40,8 +40,8 @@ export const bookmarks: Bookmark[] = [
   {
     icon: "/System/Icons/Favicons/diablo.webp",
     name: "Diablo",
-    url: "https://d07riv.github.io/diabloweb/",
+    url: "https://tv.219277.xyz/",
   },
 ];
 
-export const HOME_PAGE = "https://www.google.com/webhp?igu=1";
+export const HOME_PAGE = "https://www.google.com/";
